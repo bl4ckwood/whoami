@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guev4ru also know as Blackwood / stealthN0d3
+- 👋 Hi, I’m @bl4ckwood also know as stealthN0d3 or snode
 - 👀 I’m interested in Offensive Security(RED Teaming)
 - 🌱 I’m currently learning Active Directory, Web App pentesting & Exploit, Malware Development.
 - 💞️ I’m looking to collaborate on Exploit, Malware Development.
